@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 
-**/nbproject/project.properties
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
 **/nbproject/Package-*.bash
