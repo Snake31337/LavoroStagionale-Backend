@@ -7,7 +7,9 @@
  *
  * @author Leonardo
  */
-public class Esperienza {
+import java.io.Serializable;
+
+public class Esperienza implements Serializable {
     private int id;
     private String tipologia;
     private int numposti;
@@ -53,6 +55,8 @@ public class Esperienza {
     public void setNumposti(int numposti) {
         this.numposti = numposti;
     }
+    
+    
     
     
     
