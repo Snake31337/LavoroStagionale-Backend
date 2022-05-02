@@ -30,4 +30,6 @@ Il sito deve essere responsive
 Si possono scegliere i framework che si vogliono lato CSS/JS
 Il database è MySQL
 
+```
 mysql://uoggwhue2lrj4qyt:nNHbPBJBYyf5abhrEice@bysp8oufbeprslc9nfpj-mysql.services.clever-cloud.com:3306/bysp8oufbeprslc9nfpj
+```
