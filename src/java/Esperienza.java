@@ -56,6 +56,10 @@ public class Esperienza implements Serializable {
         this.numposti = numposti;
     }
     
+    public Esperienza() {
+    
+    }
+    
     
     
     
