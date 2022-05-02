@@ -29,3 +29,7 @@ Il sito deve essere costruito utilizzando HTML/CSS/JS lato client e JSP/Java Bea
 Il sito deve essere responsive
 Si possono scegliere i framework che si vogliono lato CSS/JS
 Il database è MySQL
+
+```
+mysql://uoggwhue2lrj4qyt:nNHbPBJBYyf5abhrEice@bysp8oufbeprslc9nfpj-mysql.services.clever-cloud.com:3306/bysp8oufbeprslc9nfpj
+```
